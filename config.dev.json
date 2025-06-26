@@ -17,7 +17,7 @@
     "ignoreCommand": ["emojireply.js"]
   },
   "adminBot": [
-    "61575929970305",
+    "100048303251174",
     ""
   ],
   "whiteListMode": {
@@ -25,7 +25,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "SHUVO.AI 🤖💨",
+  "nickNameBot": "SHUVO.AI🤖💨",
   "prefix": "-",
   "database": {
     "type": "mongodb",
