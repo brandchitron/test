@@ -25,7 +25,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "SHUVO.AI🤖💨",
+  "nickNameBot": "‌𝐀-𝐊-𝐒-ai",
   "prefix": "-",
   "database": {
     "type": "mongodb",
